@@ -1,0 +1,14 @@
+D:\work\FacebookGraphApi\FacebookGraphApi\bin\Debug\FacebookGraphApi.exe.config
+D:\work\FacebookGraphApi\FacebookGraphApi\bin\Debug\FacebookGraphApi.exe
+D:\work\FacebookGraphApi\FacebookGraphApi\bin\Debug\FacebookGraphApi.pdb
+D:\work\FacebookGraphApi\FacebookGraphApi\obj\Debug\FacebookGraphApi.csprojResolveAssemblyReference.cache
+D:\work\FacebookGraphApi\FacebookGraphApi\obj\Debug\FacebookGraphApi.exe
+D:\work\FacebookGraphApi\FacebookGraphApi\obj\Debug\FacebookGraphApi.pdb
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\obj\Debug\FacebookGraphApi.pdb
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\bin\Debug\FacebookGraphApi.pdb
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\obj\Debug\FacebookGraphApi.csprojResolveAssemblyReference.cache
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\bin\Debug\nunit.framework.dll
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\bin\Debug\nunit.framework.xml
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\bin\Debug\FacebookGraphApi.dll.config
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\bin\Debug\FacebookGraphApi.dll
+C:\Users\crtanasescu\Desktop\FacebookGraphApi\FacebookGraphApi\FacebookGraphApi\obj\Debug\FacebookGraphApi.dll
